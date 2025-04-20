@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+
+# Dependency directories
+pnpm-lock.yaml
+
+# IDE specific files
+.vscode/
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
